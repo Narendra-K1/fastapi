@@ -53,3 +53,4 @@ urllib3==2.2.3
 uvicorn==0.30.6
 watchgod==0.8.2
 websockets==13.1
+pydantic-settings
